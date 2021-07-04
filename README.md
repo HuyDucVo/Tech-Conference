@@ -40,15 +40,6 @@ The following **technical** specification are implemented:
    - Azure Pricing Calculator: https://azure.com/e/fb6cccd2dbb449e5a50b2aae50c5ce61 
    - Theorical website visiting stat: https://www.similarweb.com/website/reinvent.awsevents.com/#overview 
 
-| Azure Resource | Service Tier | Monthly Cost |
-| ------------ | ------------ | ------------ |
-| *Azure Postgres Database* | Basic Tier | $32.82 |
-| *Azure Service Bus* | Basic tier | $0.05 |
-| *Storage Account* | Queue Storage | $0.05 |
-| *App Service* | Consumption tier | $13.14 |
-| *Azure Function* | Basic Tier | $0.00 |
-| *SendGrid* | Free Tier | $0.00 |
-
 <p align="center">
 <img src="/screenshots/aws-visit.png" width="500px">
 <img src="/screenshots/price.png" width="500px">
